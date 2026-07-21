@@ -17,7 +17,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
-[![Made with](https://img.shields.io/badge/made%20with-%F0%9F%90%BE%20%2B%20%E2%98%95-orange.svg)]()
+[![Made with]([https://img.shields.io/badge/made%20with-%F0%9F%90%BE%20%2B%20%E2%98%95-orange.svg](https://img.shields.io/badge/made%20with-%F0%9F%90%BE%20%2B%20%F0%9F%A5%9B-orange.svg))]()
 
 </div>
 
