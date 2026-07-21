@@ -182,6 +182,6 @@ Built as part of a Penetration And Recon Workshop project.
 
 <div align="center">
 
-🐾 *made with curiosity, coffee, and a curious cat* 🐾
+🐾 *made with curiosity, tuna , and a curious cat* 🐾
 
 </div>
