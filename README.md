@@ -14,7 +14,6 @@
 
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](#-license)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![Made with](https://img.shields.io/badge/made%20with-%F0%9F%90%BE%20%2B%20%E2%98%95-orange.svg)]()
 
@@ -182,9 +181,6 @@ Built as part of a Penetration And Recon Workshop project.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
