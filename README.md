@@ -8,14 +8,19 @@
 |_| /_/   \_\   \_/\_/    |_| \_\_____\____\___/|_| \_|
 ```
 
-
-
 ### 🐾 Penetration And Recon Workshop — Reconnaissance Toolkit 🐾
 
 **Network Port Scanner + Subdomain Enumerator, built with pure Python — no third-party dependencies.**
 
+```
+        ／l、
+      （ﾟ､ ｡ ７        ~ sniffing targets ~
+        l  ~ヽ
+        じしf_,)ノ
+```
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](#-license)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![Made with](https://img.shields.io/badge/made%20with-%F0%9F%90%BE%20%2B%20%E2%98%95-orange.svg)]()
 
@@ -148,6 +153,22 @@ pawrecon/
 - **Port Scanner** — opens a TCP socket per port with a 1-second timeout and calls `connect_ex()`; a return of `0` means the port is open.
 - **Subdomain Enumerator** — prefixes each wordlist entry onto the target domain and calls `socket.gethostbyname()`; a successful resolution means the subdomain is live.
 
+```python
+# Port check
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+sock.settimeout(1)
+result = sock.connect_ex((target, port))
+if result == 0:
+    # port is open 🐾
+
+# Subdomain check
+try:
+    ip = socket.gethostbyname(f"{sub}.{domain}")
+    # subdomain resolves 🐾
+except socket.gaierror:
+    # no dice
+```
+
 ---
 
 ## 🐾 Screenshots
@@ -183,6 +204,9 @@ Built as part of a Penetration And Recon Workshop project.
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License — see [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
