@@ -147,22 +147,6 @@ pawrecon/
 - **Port Scanner** — opens a TCP socket per port with a 1-second timeout and calls `connect_ex()`; a return of `0` means the port is open.
 - **Subdomain Enumerator** — prefixes each wordlist entry onto the target domain and calls `socket.gethostbyname()`; a successful resolution means the subdomain is live.
 
-```python
-# Port check
-sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-sock.settimeout(1)
-result = sock.connect_ex((target, port))
-if result == 0:
-    # port is open 🐾
-
-# Subdomain check
-try:
-    ip = socket.gethostbyname(f"{sub}.{domain}")
-    # subdomain resolves 🐾
-except socket.gaierror:
-    # no dice
-```
-
 ---
 
 ## 🐾 Screenshots
