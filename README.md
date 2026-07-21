@@ -12,16 +12,6 @@
 
 **Network Port Scanner + Subdomain Enumerator, built with pure Python — no third-party dependencies.**
 
-```
-        ／l、
-      （ﾟ､ ｡ ７        ~ sniffing targets ~
-        l  ~ヽ
-        じしf_,)ノ
-      ／l、
-                  （ﾟ､ ｡ ７        
-                    l  ~ヽ
-                    じしf_,)ノ
-```
 
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](#-license)
