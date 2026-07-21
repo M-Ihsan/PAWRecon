@@ -163,10 +163,6 @@ pawrecon/
 
 ## 🐱 Roadmap
 
-- [ ] Multithreaded scanning for speed
-- [ ] Banner grabbing on open ports
-- [ ] Certificate-transparency log lookups for deeper subdomain discovery
-- [ ] JSON / CSV export options
 - [ ] Custom port range / wordlist input
 
 ---
