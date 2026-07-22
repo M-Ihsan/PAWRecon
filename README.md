@@ -91,7 +91,7 @@ It does two things, and does them cleanly:
 
 ```bash
 git clone https://github.com/M-Ihsan/PAWRecon.git
-cd pawrecon
+cd PAWRecon
 ```
 
 ### Run it
