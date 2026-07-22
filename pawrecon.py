@@ -156,10 +156,9 @@ def banner():
 {YELLOW}             Reconnaissance Toolkit v1.0{RESET}
 {WHITE}        Network Scanner + Subdomain Enumerator{RESET}
 
-{CYAN}                    ／l、
-                  （ﾟ､ ｡ ７        {YELLOW}~ sniffing targets ~{CYAN}
-                    l  ~ヽ
-                    じしf_,)ノ{RESET}
+{CYAN}
+    =^.,.^=       {YELLOW}~ sniff sniff... targets detected ~{CYAN}
+{RESET}
     """)
 
 
