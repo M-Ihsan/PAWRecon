@@ -90,7 +90,7 @@ It does two things, and does them cleanly:
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/pawrecon.git
+git clone https://github.com/M-Ihsan/PAWRecon.git
 cd pawrecon
 ```
 
@@ -157,7 +157,7 @@ pawrecon/
 
 | Banner & Menu | Port Scan | Subdomain Enum |
 |---|---|---|
-| `![banner](docs/screenshot-menu.png)` | `![portscan](docs/screenshot-ports.png)` | `![subdomains](docs/screenshot-subs.png)` |
+| `![banner](PAW Doc's/pawrecon startup menu)` | `![portscan](docs/screenshot-ports.png)` | `![subdomains](docs/screenshot-subs.png)` |
 
 ---
 
