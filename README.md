@@ -157,7 +157,7 @@ pawrecon/
 
 | Banner & Menu | Port Scan | Subdomain Enum |
 |---|---|---|
-| `![banner](PAW Doc's/pawrecon startup menu)` | `![portscan](docs/screenshot-ports.png)` | `![subdomains](docs/screenshot-subs.png)` |
+| ![banner](PAW Doc's/pawrecon startup menu) | `![portscan](docs/screenshot-ports.png)` | `![subdomains](docs/screenshot-subs.png)` |
 
 ---
 
