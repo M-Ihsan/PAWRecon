@@ -76,7 +76,7 @@ It does two things, and does them cleanly:
 ==============================================
 ```
 
-*(Add your own screenshots here — see [Screenshots](#-screenshots) below 🐾)*
+*(see [Screenshots](PAW_screenshots) below 🐾)*
 
 ---
 
@@ -153,7 +153,7 @@ pawrecon/
 
 ## 🐾 Screenshots
 
-> _Add your own terminal screenshots here before publishing:_
+> _Moew^^ Tested in Local Host and Big/Common Domain:_
 
 | Banner & Menu | Port Scan | Subdomain Enum |
 |---|---|---|
