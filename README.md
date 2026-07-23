@@ -46,7 +46,6 @@ It does two things, and does them cleanly:
 - 🌐 Subdomain enumerator with a curated 50+ entry wordlist
 - 📊 Auto-generated summary at the end of every scan
 - 💾 Optional save-to-file — results are written as timestamped reports in `Reports/`
-- ⌨️ Graceful `Ctrl+C` handling mid-scan — no ugly crashes
 - 🐍 100% Python standard library — nothing to `pip install`
 
 ---
